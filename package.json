@@ -1,0 +1,17 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "Projeto de explicação de como funciona o HTTP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"dev\""
+  },
+  "keywords": [
+    "http",
+    "https",
+    "server"
+  ],
+  "author": "CollabCode",
+  "license": "MPL-2.0"
+}
